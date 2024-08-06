@@ -14,6 +14,8 @@ System Structure can be particularly beneficial in helping to streamline operati
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [World Systems](https://github.com/sourceduty/World_Systems)
+<br>
+[Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
