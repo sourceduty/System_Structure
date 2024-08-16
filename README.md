@@ -16,6 +16,8 @@ System Structure can be particularly beneficial in helping to streamline operati
 [World Systems](https://github.com/sourceduty/World_Systems)
 <br>
 [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+<br>
+[System Control Theory](https://github.com/sourceduty/System_Control_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
